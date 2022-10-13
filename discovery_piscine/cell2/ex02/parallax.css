@@ -27,9 +27,9 @@ div {
 }
 
 #img1 {
-	background-image: url("https://placekitten.com/g/400/300");
+	background-image: url(imagen1.jpg);
 }
 
 #img2 {
-	background-image: url("https://placekitten.com/g/400/400");
+	background-image: url(imagen2.jpg);
 }
